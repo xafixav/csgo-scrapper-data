@@ -1,0 +1,507 @@
+1st 
+GeT_RiGhT 
+Christopher Alesund 
+Sweden 
+Ninjas in Pyjamas 
+⇑ (+1) 
+[1] 
+Rating: 1.30
+K/R: 0.85
+D/R: 0.57
+Maps Played: 126
+Best Tournament: StarLadder StarSeries VI 
+2nd 
+f0rest 
+Patrik Lindberg 
+Sweden 
+Ninjas in Pyjamas 
+⇑ (+3) 
+[2] 
+Rating: 1.27
+K/R: 0.84
+D/R: 0.59
+Maps Played: 126
+Best Tournament: Copenhagen Games 2013 
+3rd 
+shox 
+Richard Papillon 
+France 
+Imaginary Gaming
+VeryGames 
+⇒ (new) 
+[3] 
+Rating: 1.18
+K/R: 0.79
+D/R: 0.63
+Maps Played: 49
+Best Tournament: StarLadder StarSeries VII 
+4th 
+Dosia 
+Mihail Stolyarov 
+Russia 
+Astana Dragons
+Virtus.pro 
+⇑ (+15) 
+[4] 
+Rating: 1.10
+K/R: 0.73
+D/R: 0.62
+Maps Played: 106
+Best Tournament: StarLadder StarSeries V 
+5th 
+NBK 
+Nathan Schmitt 
+France 
+VeryGames 
+⇒ (new) 
+[5] 
+Rating: 1.11
+K/R: 0.74
+D/R: 0.65
+Maps Played: 96
+Best Tournament: ESEA Season 13 - Global Finals 
+6th 
+Xizt 
+Richard Landström 
+Sweden 
+Ninjas in Pyjamas 
+⇑ (+7) 
+[6] 
+Rating: 1.12
+K/R: 0.75
+D/R: 0.61
+Maps Played: 126
+Best Tournament: ESL Major Series One - Spring 2013 
+7th 
+ScreaM 
+Adil Benrlitom 
+Belgium 
+VeryGames 
+⇒ (new) 
+[7] 
+Rating: 1.11
+K/R: 0.73
+D/R: 0.62
+Maps Played: 96
+Best Tournament: Mad Catz Vienna 
+8th 
+JW 
+Jesper Wecksell 
+Sweden 
+Epsilon eSports
+Fnatic 
+⇒ (new) 
+[8] 
+Rating: 1.11
+K/R: 0.77
+D/R: 0.67
+Maps Played: 52
+Best Tournament: DreamHack Winter 2013 
+9th 
+Hiko 
+Spencer Martin 
+USA 
+compLexity Gaming
+Quantic Gaming 
+⇒ (new) 
+[9] 
+Rating: 1.18
+K/R: 0.80
+D/R: 0.63
+Maps Played: 55
+Best Tournament: Copenhagen Games 2013 
+10th 
+GuardiaN 
+Ladislav Kovács 
+Slovakia 
+3DMAX
+Virtus.pro
+Nostalgie
+Natus Vincere 
+⇒ (new) 
+[10] 
+Rating: 1.18
+K/R: 0.80
+D/R: 0.63
+Maps Played: 46
+Best Tournament: Mad Catz Vienna 
+11th 
+friberg 
+Adam Friberg 
+Sweden 
+Ninjas in Pyjamas 
+⇒ (new) 
+[11] 
+Rating: 1.10
+K/R: 0.74
+D/R: 0.63
+Maps Played: 126
+Best Tournament: DreamHack Summer 2013 
+12th 
+kennyS 
+Kenny Schrub 
+France 
+Recursive eSports
+Nostalgie
+Team LDLC.com
+VeryGames 
+⇒ (new) 
+[12] 
+Rating: 1.14
+K/R: 0.75
+D/R: 0.59
+Maps Played: 67
+Best Tournament: DreamHack Summer 2013 
+13th 
+flusha 
+Robin Rönnquist 
+Sweden 
+Epsilon eSports
+Fnatic 
+⇒ (new) 
+[13] 
+Rating: 1.14
+K/R: 0.77
+D/R: 0.64
+Maps Played: 52
+Best Tournament: Copenhagen Games 2013 
+14th 
+Nico 
+Nicolaj Jensen 
+Denmark 
+Western Wolves
+Copenhagen Wolves 
+⇒ (new) 
+[14] 
+Rating: 1.11
+K/R: 0.71
+D/R: 0.57
+Maps Played: 48
+Best Tournament: Copenhagen Games 2013 
+15th 
+markeloff 
+Yegor Markelov 
+Ukraine 
+Natus Vincere
+Astana Dragons 
+⇓ (-12) 
+[15] 
+Rating: 1.08
+K/R: 0.72
+D/R: 0.62
+Maps Played: 84
+Best Tournament: TECHLABS Cup 2013 Finals 
+16th 
+Edward 
+Ioann Sukhariev 
+Ukraine 
+Natus Vincere
+Astana Dragons 
+⇓ (-1) 
+[16] 
+Rating: 1.08
+K/R: 0.74
+D/R: 0.67
+Maps Played: 73
+Best Tournament: StarLadder StarSeries VI 
+17th 
+SmithZz 
+Edouard Dubourdeaux 
+France 
+VeryGames 
+⇒ (new) 
+[17] 
+Rating: 1.06
+K/R: 0.73
+D/R: 0.67
+Maps Played: 96
+Best Tournament: Copenhagen Games 2013 
+18th 
+dupreeh 
+Peter Rothmann 
+Denmark 
+Copenhagen Wolves 
+⇒ (new) 
+[18] 
+Rating: 1.10
+K/R: 0.77
+D/R: 0.69
+Maps Played: 37
+Best Tournament: ESWC 2013 
+19th 
+pasha 
+Jarosław Jarząbkowski 
+Poland 
+Universal Soldiers
+ESC Gaming
+AGAiN 
+⇓ (-1) 
+[19] 
+Rating: 1.04
+K/R: 0.73
+D/R: 0.69
+Maps Played: 74
+Best Tournament: StarLadder StarSeries VIII 
+20st 
+Xyp9x 
+Andreas Højsleth 
+Denmark 
+Fnatic
+Copenhagen Wolves 
+⇒ (new) 
+[20] 
+Rating: 1.07
+K/R: 0.72
+D/R: 0.64
+Maps Played: 61
+Best Tournament: ESL Major Series One - Summer 2013 
+1st 
+GeT_RiGhT 
+Christopher Alesund 
+Sweden 
+Ninjas in Pyjamas 
+≔ (+-0) 
+[1] 
+Rating: 1.13
+K/R: 0.77
+D/R: 0.64
+Maps Played: 88
+Best Tournament: Copenhagen_Games 2014 
+2nd 
+flusha 
+Robin Rönnquist 
+Sweden 
+Fnatic 
+⇑ (+11) 
+[2] 
+Rating: 1.19
+K/R: 0.80
+D/R: 0.62
+Maps Played: 98
+Best Tournament: Fragbite Masters S3 
+3rd 
+pasha 
+Jarosław Jarząbkowski 
+Poland 
+Virtus.pro 
+⇑ (+16) 
+[3] 
+Rating: 1.11
+K/R: 0.78
+D/R: 0.69
+Maps Played: 105
+Best Tournament: EMS One Katowice 
+4th 
+Snax 
+Janusz Pogorzelski 
+Poland 
+Virtus.pro 
+⇒ (new) 
+[4] 
+Rating: 1.13
+K/R: 0.75
+D/R: 108
+Maps Played: 108
+Best Tournament: Gfinity G3 
+5th 
+JW 
+Jesper Wecksell 
+Sweden 
+Fnatic 
+⇑ (+3) 
+[5] 
+Rating: 1.13
+K/R: 0.78
+D/R: 0.67
+Maps Played: 98
+Best Tournament: DreamHack 2014 Invitational II 
+6th 
+kennyS 
+Kenny Schrub 
+France 
+Titan
+Clan-Mystik 
+⇑ (+6) 
+[6] 
+Rating: 1.27
+K/R: 0.86
+D/R: 0.63
+Maps Played: 59
+Best Tournament: DreamHack 2014 Invitational II 
+7th 
+f0rest 
+Patrik Lindberg 
+Sweden 
+Ninjas in Pyjamas 
+⇓ (-5) 
+[7] 
+Rating: 1.09
+K/R: 0.76
+D/R: 0.68
+Maps Played: 88
+Best Tournament: DreamHack Summer 2014 
+8th 
+shox 
+Richard Papillon 
+France 
+Titan
+Epsilon eSports
+Team LDLC.com 
+⇓ (-5) 
+[8] 
+Rating: 1.13
+K/R: 0.76
+D/R: 0.64
+Maps Played: 94
+Best Tournament: DreamHack Valencia 2014 
+9th 
+KRiMZ 
+Freddy Johansson 
+Sweden 
+Fnatic
+LGB eSports 
+⇒ (new) 
+[9] 
+Rating: 1.14
+K/R: 0.75
+D/R: 0.61
+Maps Played: 94
+Best Tournament: ESWC 2014 
+10th 
+Happy 
+Vincent Cervoni 
+France 
+Team LDLC.com 
+⇒ (new) 
+[10] 
+Rating: 1.10
+K/R: 0.76
+D/R: 0.64
+Maps Played: 79
+Best Tournament: DreamHack Winter 2014 
+11th 
+GuardiaN 
+Ladislav Kovács 
+Slovakia 
+Natus Vincere 
+⇓ (-1) 
+[11] 
+Rating: 1.12
+K/R: 0.76
+D/R: 0.65
+Maps Played: 81
+Best Tournament: Game Show League Season 1 
+12th 
+olofm 
+Olof Kajbjer 
+Sweden 
+Fnatic
+LGB eSports 
+⇒ (new) 
+[12] 
+Rating: 1.10
+K/R: 0.75
+D/R: 0.63
+Maps Played: 94
+Best Tournament: ESWC 2014 
+13th 
+byali 
+Paweł Bieliński 
+Poland 
+Virtus.pro 
+⇒ (new) 
+[13] 
+Rating: 1.05
+K/R: 0.71
+D/R: 0.64
+Maps Played: 113
+Best Tournament: EMS One Katowice 
+14th 
+friberg 
+Adam Friberg 
+Sweden 
+Ninjas in Pyjamas 
+⇓ (-3) 
+[14] 
+Rating: 1.00
+K/R: 0.69
+D/R: 0.70
+Maps Played: 88
+Best Tournament: ESL One: Cologne 2014 
+15th 
+apEX 
+Dan Madesclaire 
+France 
+Titan
+Team LDLC.com 
+⇒ (new) 
+[15] 
+Rating: 1.10
+K/R: 0.80
+D/R: 0.73
+Maps Played: 60
+Best Tournament: ESL One: Cologne 2014 
+16th 
+dupreeh 
+Peter Rasmussen 
+Denmark 
+Team Dignitas 
+⇑ (+2) 
+[16] 
+Rating: 1.11
+K/R: 0.77
+D/R: 0.67
+Maps Played: 53
+Best Tournament: Gfinity G3 
+17th 
+NBK 
+Nathan Schmitt 
+France 
+Team LDLC.com
+Titan 
+⇓ (-12) 
+[17] 
+Rating: 1.07
+K/R: 0.72
+D/R: 0.65
+Maps Played: 96
+Best Tournament: DreamHack 2014 Invitational I 
+18th 
+swag 
+Braxton Pierce 
+USA 
+Team iBUYPOWER
+compLexity Gaming 
+⇒ (new) 
+[18] 
+Rating: 1.12
+K/R: 0.77
+D/R: 0.65
+Maps Played: 65
+Best Tournament: ESEA Season 16 - Global Invite Division 
+19th 
+kioShiMa 
+Fabien Fiey 
+France 
+Team LDLC.com
+Epsilon eSports
+Clan-Mystik 
+⇒ (new) 
+[19] 
+Rating: 1.06
+K/R: 0.72
+D/R: 0.64
+Maps Played: 76
+Best Tournament: ESL One: Cologne 2014 
+20st 
+device 
+Nicolai Reedtz 
+Denmark 
+Team Dignitas 
+⇒ (new) 
+[20] 
+Rating: 1.11
+K/R: 0.77
+D/R: 0.66
+Maps Played: 53
+Best Tournament: Copenhagen_Games 2014 
